@@ -89,20 +89,20 @@
 		C4D7B78A23131C8A00071D7B /* pauseIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = C4D7B78823131C8A00071D7B /* pauseIcon.png */; };
 		C4D7B78B23131C8A00071D7B /* playIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = C4D7B78923131C8A00071D7B /* playIcon.png */; };
 		C4D7B78F231324D800071D7B /* MGPlayerMusicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C40EBE2F2312B6E500CC4AC8 /* MGPlayerMusicViewController.swift */; };
-		C4D7B79C231330EA00071D7B /* MMWormhole.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B79B231330EA00071D7B /* MMWormhole.m */; };
-		C4D7B79D231330EA00071D7B /* MMWormhole.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B79B231330EA00071D7B /* MMWormhole.m */; };
-		C4D7B7B02313337B00071D7B /* MMWormholeSessionMessageTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7A52313337A00071D7B /* MMWormholeSessionMessageTransiting.m */; };
-		C4D7B7B12313337B00071D7B /* MMWormholeSessionMessageTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7A52313337A00071D7B /* MMWormholeSessionMessageTransiting.m */; };
-		C4D7B7B22313337B00071D7B /* MMWormholeSessionContextTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7A62313337A00071D7B /* MMWormholeSessionContextTransiting.m */; };
-		C4D7B7B32313337B00071D7B /* MMWormholeSessionContextTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7A62313337A00071D7B /* MMWormholeSessionContextTransiting.m */; };
-		C4D7B7B42313337B00071D7B /* MMWormholeFileTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7A82313337A00071D7B /* MMWormholeFileTransiting.m */; };
-		C4D7B7B52313337B00071D7B /* MMWormholeFileTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7A82313337A00071D7B /* MMWormholeFileTransiting.m */; };
-		C4D7B7B62313337B00071D7B /* MMWormholeSession.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7AB2313337B00071D7B /* MMWormholeSession.m */; };
-		C4D7B7B72313337B00071D7B /* MMWormholeSession.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7AB2313337B00071D7B /* MMWormholeSession.m */; };
-		C4D7B7B82313337B00071D7B /* MMWormholeSessionFileTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7AC2313337B00071D7B /* MMWormholeSessionFileTransiting.m */; };
-		C4D7B7B92313337B00071D7B /* MMWormholeSessionFileTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7AC2313337B00071D7B /* MMWormholeSessionFileTransiting.m */; };
-		C4D7B7BA2313337B00071D7B /* MMWormholeCoordinatedFileTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7AD2313337B00071D7B /* MMWormholeCoordinatedFileTransiting.m */; };
-		C4D7B7BB2313337B00071D7B /* MMWormholeCoordinatedFileTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7AD2313337B00071D7B /* MMWormholeCoordinatedFileTransiting.m */; };
+		C4D7B7D023134EF200071D7B /* MMWormholeSessionContextTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7C423134EF200071D7B /* MMWormholeSessionContextTransiting.m */; };
+		C4D7B7D123134EF200071D7B /* MMWormholeSessionContextTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7C423134EF200071D7B /* MMWormholeSessionContextTransiting.m */; };
+		C4D7B7D223134EF200071D7B /* MMWormholeSession.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7C623134EF200071D7B /* MMWormholeSession.m */; };
+		C4D7B7D323134EF200071D7B /* MMWormholeSession.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7C623134EF200071D7B /* MMWormholeSession.m */; };
+		C4D7B7D423134EF200071D7B /* MMWormholeFileTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7C723134EF200071D7B /* MMWormholeFileTransiting.m */; };
+		C4D7B7D523134EF200071D7B /* MMWormholeFileTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7C723134EF200071D7B /* MMWormholeFileTransiting.m */; };
+		C4D7B7D623134EF200071D7B /* MMWormhole.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7CB23134EF200071D7B /* MMWormhole.m */; };
+		C4D7B7D723134EF200071D7B /* MMWormhole.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7CB23134EF200071D7B /* MMWormhole.m */; };
+		C4D7B7D823134EF200071D7B /* MMWormholeSessionFileTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7CC23134EF200071D7B /* MMWormholeSessionFileTransiting.m */; };
+		C4D7B7D923134EF200071D7B /* MMWormholeSessionFileTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7CC23134EF200071D7B /* MMWormholeSessionFileTransiting.m */; };
+		C4D7B7DA23134EF200071D7B /* MMWormholeSessionMessageTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7CE23134EF200071D7B /* MMWormholeSessionMessageTransiting.m */; };
+		C4D7B7DB23134EF200071D7B /* MMWormholeSessionMessageTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7CE23134EF200071D7B /* MMWormholeSessionMessageTransiting.m */; };
+		C4D7B7DC23134EF200071D7B /* MMWormholeCoordinatedFileTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7CF23134EF200071D7B /* MMWormholeCoordinatedFileTransiting.m */; };
+		C4D7B7DD23134EF200071D7B /* MMWormholeCoordinatedFileTransiting.m in Sources */ = {isa = PBXBuildFile; fileRef = C4D7B7CF23134EF200071D7B /* MMWormholeCoordinatedFileTransiting.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -217,24 +217,24 @@
 		C4D7B78723131AB800071D7B /* MusicalGramophone.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MusicalGramophone.entitlements; sourceTree = "<group>"; };
 		C4D7B78823131C8A00071D7B /* pauseIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pauseIcon.png; sourceTree = "<group>"; };
 		C4D7B78923131C8A00071D7B /* playIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = playIcon.png; sourceTree = "<group>"; };
-		C4D7B798231330E900071D7B /* MusicalGramophone-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MusicalGramophone-Bridging-Header.h"; sourceTree = "<group>"; };
-		C4D7B799231330E900071D7B /* MGTodayPlayer-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MGTodayPlayer-Bridging-Header.h"; sourceTree = "<group>"; };
-		C4D7B79A231330EA00071D7B /* MMWormhole.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMWormhole.h; sourceTree = "<group>"; };
-		C4D7B79B231330EA00071D7B /* MMWormhole.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMWormhole.m; sourceTree = "<group>"; };
-		C4D7B79F2313337900071D7B /* MMWormholeTransiting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMWormholeTransiting.h; sourceTree = "<group>"; };
-		C4D7B7A02313337A00071D7B /* MMWormholeSession.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMWormholeSession.h; sourceTree = "<group>"; };
-		C4D7B7A12313337A00071D7B /* MMWormholeFileTransiting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMWormholeFileTransiting.h; sourceTree = "<group>"; };
-		C4D7B7A32313337A00071D7B /* MMWormholeSessionFileTransiting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMWormholeSessionFileTransiting.h; sourceTree = "<group>"; };
-		C4D7B7A42313337A00071D7B /* MMWormholeCoordinatedFileTransiting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMWormholeCoordinatedFileTransiting.h; sourceTree = "<group>"; };
-		C4D7B7A52313337A00071D7B /* MMWormholeSessionMessageTransiting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMWormholeSessionMessageTransiting.m; sourceTree = "<group>"; };
-		C4D7B7A62313337A00071D7B /* MMWormholeSessionContextTransiting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMWormholeSessionContextTransiting.m; sourceTree = "<group>"; };
-		C4D7B7A82313337A00071D7B /* MMWormholeFileTransiting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMWormholeFileTransiting.m; sourceTree = "<group>"; };
-		C4D7B7A92313337B00071D7B /* MMWormholeSessionContextTransiting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMWormholeSessionContextTransiting.h; sourceTree = "<group>"; };
-		C4D7B7AA2313337B00071D7B /* MMWormholeSessionMessageTransiting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMWormholeSessionMessageTransiting.h; sourceTree = "<group>"; };
-		C4D7B7AB2313337B00071D7B /* MMWormholeSession.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMWormholeSession.m; sourceTree = "<group>"; };
-		C4D7B7AC2313337B00071D7B /* MMWormholeSessionFileTransiting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMWormholeSessionFileTransiting.m; sourceTree = "<group>"; };
-		C4D7B7AD2313337B00071D7B /* MMWormholeCoordinatedFileTransiting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MMWormholeCoordinatedFileTransiting.m; sourceTree = "<group>"; };
 		C4D7B7BC2313454E00071D7B /* MGTodayPlayer.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = MGTodayPlayer.entitlements; path = ../../MGTodayPlayer.entitlements; sourceTree = "<group>"; };
+		C4D7B7BF23134E9800071D7B /* MusicalGramophone-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MusicalGramophone-Bridging-Header.h"; sourceTree = "<group>"; };
+		C4D7B7C023134EA700071D7B /* MGTodayPlayer-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MGTodayPlayer-Bridging-Header.h"; sourceTree = "<group>"; };
+		C4D7B7C123134EF100071D7B /* MMWormholeCoordinatedFileTransiting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MMWormholeCoordinatedFileTransiting.h; path = Wormhole/MMWormholeCoordinatedFileTransiting.h; sourceTree = "<group>"; };
+		C4D7B7C223134EF100071D7B /* MMWormholeTransiting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MMWormholeTransiting.h; path = Wormhole/MMWormholeTransiting.h; sourceTree = "<group>"; };
+		C4D7B7C323134EF100071D7B /* MMWormhole.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MMWormhole.h; path = Wormhole/MMWormhole.h; sourceTree = "<group>"; };
+		C4D7B7C423134EF200071D7B /* MMWormholeSessionContextTransiting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MMWormholeSessionContextTransiting.m; path = Wormhole/MMWormholeSessionContextTransiting.m; sourceTree = "<group>"; };
+		C4D7B7C523134EF200071D7B /* MMWormholeSessionMessageTransiting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MMWormholeSessionMessageTransiting.h; path = Wormhole/MMWormholeSessionMessageTransiting.h; sourceTree = "<group>"; };
+		C4D7B7C623134EF200071D7B /* MMWormholeSession.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MMWormholeSession.m; path = Wormhole/MMWormholeSession.m; sourceTree = "<group>"; };
+		C4D7B7C723134EF200071D7B /* MMWormholeFileTransiting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MMWormholeFileTransiting.m; path = Wormhole/MMWormholeFileTransiting.m; sourceTree = "<group>"; };
+		C4D7B7C823134EF200071D7B /* MMWormholeFileTransiting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MMWormholeFileTransiting.h; path = Wormhole/MMWormholeFileTransiting.h; sourceTree = "<group>"; };
+		C4D7B7C923134EF200071D7B /* MMWormholeSession.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MMWormholeSession.h; path = Wormhole/MMWormholeSession.h; sourceTree = "<group>"; };
+		C4D7B7CA23134EF200071D7B /* MMWormholeSessionFileTransiting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MMWormholeSessionFileTransiting.h; path = Wormhole/MMWormholeSessionFileTransiting.h; sourceTree = "<group>"; };
+		C4D7B7CB23134EF200071D7B /* MMWormhole.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MMWormhole.m; path = Wormhole/MMWormhole.m; sourceTree = "<group>"; };
+		C4D7B7CC23134EF200071D7B /* MMWormholeSessionFileTransiting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MMWormholeSessionFileTransiting.m; path = Wormhole/MMWormholeSessionFileTransiting.m; sourceTree = "<group>"; };
+		C4D7B7CD23134EF200071D7B /* MMWormholeSessionContextTransiting.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MMWormholeSessionContextTransiting.h; path = Wormhole/MMWormholeSessionContextTransiting.h; sourceTree = "<group>"; };
+		C4D7B7CE23134EF200071D7B /* MMWormholeSessionMessageTransiting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MMWormholeSessionMessageTransiting.m; path = Wormhole/MMWormholeSessionMessageTransiting.m; sourceTree = "<group>"; };
+		C4D7B7CF23134EF200071D7B /* MMWormholeCoordinatedFileTransiting.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MMWormholeCoordinatedFileTransiting.m; path = Wormhole/MMWormholeCoordinatedFileTransiting.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -474,23 +474,23 @@
 		C4D7B79E231330F500071D7B /* Wormhole */ = {
 			isa = PBXGroup;
 			children = (
-				C4D7B79A231330EA00071D7B /* MMWormhole.h */,
-				C4D7B79B231330EA00071D7B /* MMWormhole.m */,
-				C4D7B7A42313337A00071D7B /* MMWormholeCoordinatedFileTransiting.h */,
-				C4D7B7AD2313337B00071D7B /* MMWormholeCoordinatedFileTransiting.m */,
-				C4D7B7A12313337A00071D7B /* MMWormholeFileTransiting.h */,
-				C4D7B7A82313337A00071D7B /* MMWormholeFileTransiting.m */,
-				C4D7B7A02313337A00071D7B /* MMWormholeSession.h */,
-				C4D7B7AB2313337B00071D7B /* MMWormholeSession.m */,
-				C4D7B7A92313337B00071D7B /* MMWormholeSessionContextTransiting.h */,
-				C4D7B7A62313337A00071D7B /* MMWormholeSessionContextTransiting.m */,
-				C4D7B7A32313337A00071D7B /* MMWormholeSessionFileTransiting.h */,
-				C4D7B7AC2313337B00071D7B /* MMWormholeSessionFileTransiting.m */,
-				C4D7B7AA2313337B00071D7B /* MMWormholeSessionMessageTransiting.h */,
-				C4D7B7A52313337A00071D7B /* MMWormholeSessionMessageTransiting.m */,
-				C4D7B79F2313337900071D7B /* MMWormholeTransiting.h */,
-				C4D7B798231330E900071D7B /* MusicalGramophone-Bridging-Header.h */,
-				C4D7B799231330E900071D7B /* MGTodayPlayer-Bridging-Header.h */,
+				C4D7B7C323134EF100071D7B /* MMWormhole.h */,
+				C4D7B7CB23134EF200071D7B /* MMWormhole.m */,
+				C4D7B7C123134EF100071D7B /* MMWormholeCoordinatedFileTransiting.h */,
+				C4D7B7CF23134EF200071D7B /* MMWormholeCoordinatedFileTransiting.m */,
+				C4D7B7C823134EF200071D7B /* MMWormholeFileTransiting.h */,
+				C4D7B7C723134EF200071D7B /* MMWormholeFileTransiting.m */,
+				C4D7B7C923134EF200071D7B /* MMWormholeSession.h */,
+				C4D7B7C623134EF200071D7B /* MMWormholeSession.m */,
+				C4D7B7CD23134EF200071D7B /* MMWormholeSessionContextTransiting.h */,
+				C4D7B7C423134EF200071D7B /* MMWormholeSessionContextTransiting.m */,
+				C4D7B7CA23134EF200071D7B /* MMWormholeSessionFileTransiting.h */,
+				C4D7B7CC23134EF200071D7B /* MMWormholeSessionFileTransiting.m */,
+				C4D7B7C523134EF200071D7B /* MMWormholeSessionMessageTransiting.h */,
+				C4D7B7CE23134EF200071D7B /* MMWormholeSessionMessageTransiting.m */,
+				C4D7B7C223134EF100071D7B /* MMWormholeTransiting.h */,
+				C4D7B7C023134EA700071D7B /* MGTodayPlayer-Bridging-Header.h */,
+				C4D7B7BF23134E9800071D7B /* MusicalGramophone-Bridging-Header.h */,
 			);
 			name = Wormhole;
 			sourceTree = "<group>";
@@ -676,23 +676,23 @@
 			files = (
 				C40EBE2023119AF000CC4AC8 /* MGAlbumDataSource.swift in Sources */,
 				C40EBE2E23128FE400CC4AC8 /* MGTrack.swift in Sources */,
-				C4D7B7B02313337B00071D7B /* MMWormholeSessionMessageTransiting.m in Sources */,
-				C4D7B7BA2313337B00071D7B /* MMWormholeCoordinatedFileTransiting.m in Sources */,
+				C4D7B7D023134EF200071D7B /* MMWormholeSessionContextTransiting.m in Sources */,
 				C40EBE242311A42800CC4AC8 /* MGAlbumViewModel.swift in Sources */,
 				C40EBDF3230FF67700CC4AC8 /* MGLoader.swift in Sources */,
 				C40EBE262311DA8200CC4AC8 /* MGDynamicOneValue.swift in Sources */,
 				C4D7B78F231324D800071D7B /* MGPlayerMusicViewController.swift in Sources */,
-				C4D7B7B42313337B00071D7B /* MMWormholeFileTransiting.m in Sources */,
+				C4D7B7D423134EF200071D7B /* MMWormholeFileTransiting.m in Sources */,
 				C40EBE2C23128C9800CC4AC8 /* MGPLayerMusicViewModel.swift in Sources */,
 				C40EBE282311DEE700CC4AC8 /* MGDescriptionCell.swift in Sources */,
-				C4D7B7B22313337B00071D7B /* MMWormholeSessionContextTransiting.m in Sources */,
+				C4D7B7D823134EF200071D7B /* MMWormholeSessionFileTransiting.m in Sources */,
 				C40EBE1E23113C7900CC4AC8 /* MGDynamicValues.swift in Sources */,
+				C4D7B7DA23134EF200071D7B /* MMWormholeSessionMessageTransiting.m in Sources */,
 				C40EBD69230DCC4300CC4AC8 /* MGAlbumViewController.swift in Sources */,
-				C4D7B7B82313337B00071D7B /* MMWormholeSessionFileTransiting.m in Sources */,
+				C4D7B7DC23134EF200071D7B /* MMWormholeCoordinatedFileTransiting.m in Sources */,
 				C40EBD56230DC84800CC4AC8 /* AppDelegate.swift in Sources */,
-				C4D7B79C231330EA00071D7B /* MMWormhole.m in Sources */,
-				C4D7B7B62313337B00071D7B /* MMWormholeSession.m in Sources */,
 				C40EBE332312DA8C00CC4AC8 /* MGImage.swift in Sources */,
+				C4D7B7D623134EF200071D7B /* MMWormhole.m in Sources */,
+				C4D7B7D223134EF200071D7B /* MMWormholeSession.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -700,14 +700,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C4D7B79D231330EA00071D7B /* MMWormhole.m in Sources */,
-				C4D7B7B52313337B00071D7B /* MMWormholeFileTransiting.m in Sources */,
+				C4D7B7D923134EF200071D7B /* MMWormholeSessionFileTransiting.m in Sources */,
+				C4D7B7D123134EF200071D7B /* MMWormholeSessionContextTransiting.m in Sources */,
+				C4D7B7D723134EF200071D7B /* MMWormhole.m in Sources */,
 				C4D7B77A2313174100071D7B /* TodayViewController.swift in Sources */,
-				C4D7B7B32313337B00071D7B /* MMWormholeSessionContextTransiting.m in Sources */,
-				C4D7B7B12313337B00071D7B /* MMWormholeSessionMessageTransiting.m in Sources */,
-				C4D7B7BB2313337B00071D7B /* MMWormholeCoordinatedFileTransiting.m in Sources */,
-				C4D7B7B92313337B00071D7B /* MMWormholeSessionFileTransiting.m in Sources */,
-				C4D7B7B72313337B00071D7B /* MMWormholeSession.m in Sources */,
+				C4D7B7D323134EF200071D7B /* MMWormholeSession.m in Sources */,
+				C4D7B7D523134EF200071D7B /* MMWormholeFileTransiting.m in Sources */,
+				C4D7B7DD23134EF200071D7B /* MMWormholeCoordinatedFileTransiting.m in Sources */,
+				C4D7B7DB23134EF200071D7B /* MMWormholeSessionMessageTransiting.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
